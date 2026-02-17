@@ -2,12 +2,22 @@
 
 This project features a comprehensive analytical dashboard designed to track supply chain performance, sales metrics, and inventory status. It provides a high-level overview of sales trends, regional distribution, and year-over-year growth.
 
+## Project Objective
+The objective of this project is to analyze supply chain sales, inventory, and regional performance to help businesses make data-driven decisions and improve efficiency.
+
+
 ![Supply Chain Dashboard View](Supply_Chain_Dashboard.png)
 
 ## 🛠 Tech Stack
 * **Power BI:** Used for creating the interactive dashboard, data modeling, and visualization.
 * **SQL:** Employed for data extraction, querying databases, and data manipulation.
 * **Microsoft Excel:** Used for initial data cleaning, flat-file handling, and preprocessing.
+
+## Dataset Information
+- Time period: 2019–2023
+- Includes sales, product category, region, state, store, and inventory data
+- Dataset used for supply chain and sales analysis
+
 
 ## 📊 Dashboard Overview
 
@@ -42,6 +52,14 @@ The dashboard includes sidebar controls for dynamic data slicing:
 * **Years:** Select specific years (2019-2023).
 * **Regions:** Filter by East, Midwest, South, Southwest, and West.
 * **P-Method (Payment):** Filter by Cash, Credit, Debit, or Other.
+
+## Skills Demonstrated
+- Data Cleaning using Excel
+- Data Analysis using SQL
+- Data Visualization using Power BI
+- KPI Analysis
+- Dashboard Creation
+
 
 
 ---
